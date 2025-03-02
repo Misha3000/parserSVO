@@ -1176,11 +1176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mike\\RiderProjects\\WinFormsApp1\\Parser\\Parser.csproj",
+      "projectUniqueName": "C:\\Users\\Mike\\RiderProjects\\Parser\\Parser\\Parser.csproj",
       "projectName": "Parser",
-      "projectPath": "C:\\Users\\Mike\\RiderProjects\\WinFormsApp1\\Parser\\Parser.csproj",
+      "projectPath": "C:\\Users\\Mike\\RiderProjects\\Parser\\Parser\\Parser.csproj",
       "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mike\\RiderProjects\\WinFormsApp1\\Parser\\obj\\",
+      "outputPath": "C:\\Users\\Mike\\RiderProjects\\Parser\\Parser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1195,8 +1195,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Mike\\RiderProjects\\WinFormsApp1\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\Mike\\RiderProjects\\WinFormsApp1\\Data\\Data.csproj"
+            "C:\\Users\\Mike\\RiderProjects\\Parser\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\Mike\\RiderProjects\\Parser\\Data\\Data.csproj"
             }
           }
         }

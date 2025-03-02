@@ -15,8 +15,8 @@ public class ParserApi : IParserApi
     {
         _httpClient = httpClient;
         _db = applicationContext;
-        }
+    }
 
-    public IParser? _parser;
-    public IParser Parser => _parser ??= new WinFormsApp1.Parser( _httpClient, _db);
+    private IParser? _parser;
+    public IParser Parser => _parser ??= new Client.Parser( _httpClient, _db);
 }
